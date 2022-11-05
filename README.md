@@ -1,1 +1,1 @@
-# project_image
+# mid_term
